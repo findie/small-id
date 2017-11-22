@@ -5,6 +5,9 @@ ___
 Q: _Why?_ <br>
 A: _We wanted a fast and low maintenance, url friendly id generator._
 
+## Install
+`npm install small-id`
+
 ## Example
 ```js
 const smallId = require('small-id');
